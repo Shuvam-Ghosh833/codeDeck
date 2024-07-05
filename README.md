@@ -2,7 +2,7 @@
 
 ## Demo
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNSdHplSDBva0NObWVrRU9YNVBCbWdkNkpyQXxBQ3Jtc0ttNTV6aV9vOFZ5dENmcjhEOXl5VGhOeWJnbURJUHJBVzVLbXJLRmZ3cUtXX0VhbGFTaEZmS3FrLXoydGxENERaZUJOQjQtcFR0dEJRQUJ1YmpIYjJsX2RmNlA0UHNsdVhUNVdvSHZfOUVQY0NGb2ZsVQ&q=https%3A%2F%2Fcode-deck.vercel.app%2F&v=Tg4_Zyyx-QA
 
 ## Project Objective
 
