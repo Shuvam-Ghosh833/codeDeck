@@ -1,6 +1,7 @@
 # Code Deck | An Online IDE
 
 ## Demo
+![codedeck](https://github.com/Shuvam-Ghosh833/codeDeck/assets/136049343/988dd952-0e5d-455e-83f7-3b1797da494d)
 
 https://code-deck.vercel.app/
 
